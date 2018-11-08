@@ -1,5 +1,5 @@
 {
-   "name":"ysxc/weapp-php-sdk",
+   "name":"xlext/weapp-php-sdk",
    "description":"Weapp sdk of php",
    "keywords":["php","sdk","weapp","xl"],
    "license" : "Apache-2.0",
